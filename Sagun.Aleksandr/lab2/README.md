@@ -16,7 +16,7 @@ sudo apt install build-essential cmake qt6-base-dev
 Из корня учебного репозитория выполните:
 
 ```bash
-c
+cd Sagun.Aleksandr/lab2
 make
 ./bin/host_pipe --clients 2
 ```
